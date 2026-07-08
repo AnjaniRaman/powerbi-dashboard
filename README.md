@@ -1,1 +1,1 @@
-# Banking OPerations-Compliance Dashboard
+# Banking Operations-Compliance Dashboard
