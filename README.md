@@ -19,3 +19,38 @@ Total Records
 - Customers:300
 - KYC Record:300
 - Service Requests:500
+## Dasboard Features
+- Customer Segmentation
+- KYC Compliance Monitoring
+- AML Exposure Analysis
+- SLA Breach Monitoring
+- Service Request Analysis
+- Branch Performance
+- Relationship Manager Performance
+- Interactive Slicers
+## Key performance Indicators
+- Total Customers
+- KYC Completion %
+- Pending KYC
+- Customer Type
+- Average TAT
+- SLA Breach %
+# Dashboard Visuals
+- KYC Compliance Status
+- Customer Segment Distribution
+- Customer Risk Profile
+- AML Exposure Across Risk Segments
+- KYC Compliance by Risk Category
+- Service Request Status Overview
+- Branch Volume
+- Average TAT by Request Type
+- RM Escalation Performance
+## Tools & Technologies
+- Microsoft Power BI
+- DAX
+- Power Query
+- CSV
+- Data Modeling
+## Data Model
+<img width="863" height="561" alt="layout" src="https://github.com/user-attachments/assets/08c63a9f-5c54-4cb4-b650-2fe82341038d" />
+
