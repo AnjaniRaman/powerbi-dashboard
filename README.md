@@ -53,4 +53,15 @@ Total Records
 - Data Modeling
 ## Data Model
 <img width="863" height="561" alt="layout" src="https://github.com/user-attachments/assets/08c63a9f-5c54-4cb4-b650-2fe82341038d" />
-
+## Key Insights
+- 74.33% customers completed KYC
+- Retail customers constitute nearly 70% of the customer base
+- High-risk customers represent approximately 18% of the portfolio
+- Bangalore branch handled the highest request volume
+- Address change requests recorded the highest average TAT
+- SLA breach rate indicates opportunities for operational improvement
+## Future Improvements
+_ Live SQL datbase integration
+Incremental refresh
+Automated email reporting
+Real-time KPI monitoring
